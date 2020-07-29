@@ -38,5 +38,5 @@ jobs:
       run: npm install -g surge
       
     - name: Deploy to Surge
-      run: surge ./build bc_decond.surge.sh --token ${{secrets.SURGE_TOKEN}}
+      run: surge ./build bc_second.surge.sh --token ${{secrets.SURGE_TOKEN}}
 
