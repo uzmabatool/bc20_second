@@ -16,7 +16,7 @@ function App({name}) {
           2*9 = {2*9}
           <br/>
           <br/>
-          CSS allpied to text in Hello.js:
+          CSS applied to text in Hello.js:
           <Hello firstname= {name}></Hello>
           <br/>
           Unordered List:
